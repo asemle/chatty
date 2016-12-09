@@ -12,6 +12,22 @@ body {
   padding-right: 15px;
 }
 
+.msg {
+  border: 1px solid grey;
+
+}
+.msghead {
+  background-color: black;
+  color: white;
+  text-align: left;
+  width: 15%;
+  /*overflow:scroll;*/
+
+}
+.msghead h4 {
+  margin-top: 0;
+  font-size: 20px
+}
 /* Custom page header */
 .header {
   border-bottom: 1px solid #e5e5e5;
